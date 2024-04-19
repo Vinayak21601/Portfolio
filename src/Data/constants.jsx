@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Vinayak21601",
   resume:
-    "https://drive.google.com/file/d/1pABaJb4smlhAO9csCSczbJInKI0YZjdF/view?usp=sharing",
+    "https://drive.google.com/file/d/1KCGFTAYR-Y8D3Ay5afYY6vWA-ukwbDmJ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vinayak-devare-146734249/",
   twitter: "https://twitter.com/",
   insta: "https://www.instagram.com//",
@@ -130,7 +130,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://lh3.googleusercontent.com/p/AF1QipOMAcKmwMbEE8Pg1QxGU_4jW3I9yWkOQTe19yBD=s1360-w1360-h1020",
     school: "New Lord English School, Dombivli",
     date: "Apr 2016 - Apr 2017",
     grade: "74%",
