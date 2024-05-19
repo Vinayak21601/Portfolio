@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Vinayak21601",
   resume:
-    "https://drive.google.com/file/d/1KCGFTAYR-Y8D3Ay5afYY6vWA-ukwbDmJ/view?usp=sharing",
+    "https://drive.google.com/file/d/1J7WpWFEPmQY6xCJgHnDbHglyxV3HWY1B/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vinayak-devare-146734249/",
   twitter: "https://twitter.com/",
   insta: "https://www.instagram.com//",
@@ -99,12 +99,12 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://uponlytech.com/static/media/uponlytechlogoiimg.e1bf7636f1a31150d8e7.png",
-    role: "Fullstack Developer",
-    company: "Uponly Technologies Pvt. Ltd.",
-    date: "March 2023 - Present",
-    desc: "Working on React , managing Admin Dashboard, and streamlining the process with automation.",
-    skills: ["HTMLS", "CSS", "JavaScript", "React", "Php"],
+    img: "",
+    role: "Frontend Developer",
+    company: "Desk n Cabin",
+    date: "June 2022 - Present",
+    desc: "As a Frontend Developer, I design and implement interactive web interfaces using React Js. I collaborate with UI/UX designers and backend developers to ensure a seamless and responsive user experience across devices.",
+    skills: ["HTMLS", "CSS", "JavaScript", "React", "Php", "Wordpress"],
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
 ];
