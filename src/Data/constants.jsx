@@ -101,7 +101,7 @@ export const experiences = [
     id: 0,
     img: "",
     role: "Frontend Developer",
-    company: "Desk n Cabin",
+    company: "Blitzar Tech Pvt Ltd.",
     date: "June 2022 - Present",
     desc: "As a Frontend Developer, I design and implement interactive web interfaces using React Js. I collaborate with UI/UX designers and backend developers to ensure a seamless and responsive user experience across devices.",
     skills: ["HTMLS", "CSS", "JavaScript", "React", "Php", "Wordpress"],
